@@ -2,6 +2,7 @@
 A python project that displays **current weather** and **5-day forecasts** for any city using the OpenWeather API.
 
 Technologies-
+
 -Python
 -Requests
 -Tkinter
